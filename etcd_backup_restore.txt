@@ -1,0 +1,1 @@
+https://discuss.kubernetes.io/t/etcd-backup-and-restore-management/11019/5?u=beomsoobeomsoo
